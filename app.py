@@ -27,7 +27,7 @@ def fetch_results(medicine):
     params = {
         "engine": "google_shopping",
         "q": medicine,
-        "api_key": "dfcec42572c150565a8175261921e161d787275288fa2840400d806860103aed",  # replace
+        "api_key": "your_api_key",  # replace
         "gl": "in",
         "hl": "en"
     }
