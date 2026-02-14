@@ -208,14 +208,14 @@ Please ensure your code follows the existing style and includes appropriate docu
 
 ## 📬 Contact
 
-**Prince Singh**  
+**Prince Kumar Singh**  
 🎯 Aspiring Data Analyst  
 💡 Skilled in Power BI, Excel, Python, and Dashboard Development
 
-- 📧 Email: [Your Email]
-- 💼 LinkedIn: [Your LinkedIn Profile]
+- 📧 Email: princesinghkumar988@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/prince-kumar-singh2022/
 - 🐙 GitHub: [@princesi22](https://github.com/princesi22)
-- 🌐 Portfolio: [Your Portfolio Website]
+
 
 ---
 
